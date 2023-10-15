@@ -1,8 +1,10 @@
-# ored-nagato
+# nagato-character-display
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Yoshida24/nagato-character-display)
 
 The Melancholy of Haruhi Suzumiya ep 14.
+
+## Usage
 
 ### Supported Platform:
 - Raspberry Pi OS (Raspbian GNU/Linux 11 bullseye 64bit on Raspberry Pi 4 Model B 2GB)
