@@ -9,7 +9,8 @@ The Melancholy of Haruhi Suzumiya ep 14.
 ## Usage
 
 ### Supported Platform:
-- Raspberry Pi OS (Raspbian GNU/Linux 11 bullseye 64bit on Raspberry Pi 4 Model B 2GB)
+- Raspberry Pi OS (Raspbian GNU/Linux 11 bullseye 64bit on Raspberry Pi 4 Model B 2GB armv7l)
+
 
 ### Device
 - Character Display: SO1602AWWB-UC-WB-U
