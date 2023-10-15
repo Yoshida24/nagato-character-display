@@ -20,8 +20,14 @@ python -m venv .venv && . .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### Execute
+### Execute Nagato app
 
 ```bash
-python app.py
+python src/nagato_app.py
+```
+
+### Execute Other app
+
+```bash
+python src/other_app.py
 ```
