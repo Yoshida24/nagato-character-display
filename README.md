@@ -1,4 +1,7 @@
-### ored-nagato
+# ored-nagato
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Yoshida24/nagato-character-display)
+
 The Melancholy of Haruhi Suzumiya ep 14.
 
 ### Supported Platform:
@@ -11,7 +14,7 @@ The Melancholy of Haruhi Suzumiya ep 14.
 - Python 3.9
 - pip 20.2.3
 
-### Setup
+## Setup
 
 **install dependencies**
 
@@ -20,14 +23,18 @@ python -m venv .venv && . .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### Execute Nagato app
+## Execute 
+
+**Nagato app**
 
 ```bash
 python src/nagato_app.py
 ```
 
-### Execute Other app
+**Other app**
 
 ```bash
 python src/other_app.py
+# example
+# python src/clock_app.py
 ```
