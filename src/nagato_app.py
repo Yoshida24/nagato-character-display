@@ -1,5 +1,5 @@
 import time
-from so1602 import so1602
+from modules.so1602 import so1602
             
 def app_nagato():
     line1 = "YUKI.N > "
